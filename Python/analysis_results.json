@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "feedback": "The application crashes whenever I try to upload a photo.",
+        "summary": "The app crashes when the user tries to upload a photo.",
+        "classification": "Negative",
+        "recommended_action": "Open a high-priority bug ticket and assign it to the mobile team to investigate the photo upload crash."
+    },
+    {
+        "id": 2,
+        "feedback": "Your customer support team was very helpful and resolved my issue quickly.",
+        "summary": "The customer reports that the support team was helpful and resolved their issue quickly.",
+        "classification": "Positive",
+        "recommended_action": "Send a thank-you note to the customer."
+    },
+    {
+        "id": 3,
+        "feedback": "It would be great to have a dark mode in the application.",
+        "summary": "The customer requests a dark mode feature.",
+        "classification": "Feature request",
+        "recommended_action": "Log a dark mode feature request and add it to the product backlog."
+    },
+    {
+        "id": 4,
+        "feedback": "The application is extremely slow, and I frequently experience login failures.",
+        "summary": "The customer reports the app is extremely slow and they frequently experience login failures.",
+        "classification": "Negative",
+        "recommended_action": "Open a high-priority bug ticket for app slowness and login failures and assign it to the backend team."
+    },
+    {
+        "id": 5,
+        "feedback": "I love the new dashboard. It is easy to use and looks fantastic.",
+        "summary": "The customer praises the new dashboard as easy to use and visually appealing.",
+        "classification": "Positive",
+        "recommended_action": "Send a thank-you note to the customer."
+    }
+]
